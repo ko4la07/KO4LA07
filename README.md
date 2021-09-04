@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/ko4la07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ko4la07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko4la07&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko4la07&layout=compact&theme=dracula"/>
 <!--   <img align="right" alt="koala-menera" height="150" width="170" src="https://thumbs.gfycat.com/FeminineBlackHermitcrab-max-1mb.gif"> -->
     
 </div>
