@@ -1,4 +1,4 @@
-### Hi, I'm Jose ^◕ﻌ◕^
+### Hi, I'm Dayana ^◕ﻌ◕^
 
 <div>
   <a href="https://github.com/ko4la07">
