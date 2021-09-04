@@ -14,8 +14,6 @@
   <img align="center" alt="koala-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="koala-node" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-  <img align="right" alt="koala-menera" height="150" width="170" src="https://thumbs.gfycat.com/SimilarDistortedHuman-max-1mb.gif">
-  <img align="right" alt="koala-menera" height="150" width="170" src="https://i.pinimg.com/originals/6a/8e/1b/6a8e1be3eb19ab84072e8a399c5d88a9.gif">
 </div>
 
  ##
